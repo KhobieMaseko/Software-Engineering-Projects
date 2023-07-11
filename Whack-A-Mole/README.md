@@ -1,4 +1,4 @@
-# Whack-A-Mole
+# Whack-A-Mole (app academy open)
 
 This project ties together the CSS features that you've learned so far:
 positioning, hover effects, transitions, and overflow. When you're done, you
