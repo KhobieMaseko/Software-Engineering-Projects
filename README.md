@@ -1,3 +1,3 @@
 Software Engineering Projects Folder 
 
-- Whack-A-Mole (App Academy)
+- Whack-A-Mole (App Academy) https://khobiemaseko.github.io/software-engineering-projects/Whack-A-Mole/index.html
