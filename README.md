@@ -1,3 +1,3 @@
 Software Engineering Projects Folder 
 
-- Whack-A-Mole
+- Whack-A-Mole (App Academy)
